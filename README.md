@@ -220,6 +220,18 @@ The following checks have been completed:
 - [x] Task operations tested through the frontend.
 - [x] PostgreSQL records persisted after Docker container restarts.
 
+## Screenshots
+
+### Todo Application
+![Todo App](screenshots/home_8080.png)
+
+### FastAPI Swagger Documentation
+![API Documentation](screenshots/SwaggerAPI_8000.png)
+
+### Docker Containers
+![Docker Services](screenshots/docker.png)
+
+
 ## Concepts Demonstrated
 
 - REST API design and HTTP methods.
