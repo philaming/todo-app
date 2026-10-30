@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Git
+*.log
+
+.env
+
+backend/main copy.py
